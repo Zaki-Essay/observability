@@ -1,0 +1,9 @@
+
+
+stringhttp get /posts
+
+stringhttp get
+
+stringhttp get /products
+'
+stringhttp get /actuator/prometheus
